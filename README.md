@@ -46,4 +46,4 @@ This project is a modern web application built with React and Vite, showcasing v
 - React
 - Vite
 - Tailwind CSS
-- [Any other libraries or tools used]
+
